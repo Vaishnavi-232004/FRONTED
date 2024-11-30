@@ -1,0 +1,17 @@
+[
+    {
+     "userId":101,
+     "userName":"AjayReddy",
+     "userAddress":"Hyderabad"
+    },
+    {
+     "userId":102,
+     "userName":"Rohit",
+     "userAddress":"Banglore"
+    },
+    {
+        "userId":102,
+        "userName":"Rohit",
+        "userAddress":"Banglore"
+       }
+ ]
